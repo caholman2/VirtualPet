@@ -6,7 +6,6 @@ void setup()
 void draw()
 {
   //body w/ circles
-  scale(1,1);
   fill(255,255,255);
   strokeWeight(1);
   stroke(0,0,0);
